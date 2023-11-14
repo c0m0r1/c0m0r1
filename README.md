@@ -51,7 +51,7 @@ M.S Student in EE @ **[KAIST Hacking Lab.](https://kaist-hacking.github.io/)** (
 
 #### Authors & Organizer
  - Challenge author & Organizer of **Whitehat Contest 2022**
- - Challenge author & Organizer of **Whitehat Contest 2021**
+ - Challenge author of **Whitehat Contest 2021**
  - Challenge author & Organizer of **Cyber Operations Challenge 2020**
  - Challenge author of **CODEGATE CTF 2020**
 
