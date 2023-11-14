@@ -50,10 +50,10 @@ M.S Student in EE @ **[KAIST Hacking Lab.](https://kaist-hacking.github.io/)** (
  - Participation Award in II-B(Cryptography Problem Solving), **National Cryptography Contest**, 2018
 
 #### Authors & Organizer
- - Challenge author & Organizer of **Whitehat Contest 2022**
- - Challenge author of **Whitehat Contest 2021**
- - Challenge author & Organizer of **Cyber Operations Challenge 2020**
- - Challenge author of **CODEGATE CTF 2020**
+ - Challenge author & Organizer of **Whitehat Contest**, 2022
+ - Challenge author of **Whitehat Contest**, 2021
+ - Challenge author & Organizer of **Cyber Operations Challenge**, 2020
+ - Challenge author of **CODEGATE CTF**, 2020
 
 #### Scholarship
  - National Science & Technology Scholarship (2020.02 ~ 2022.02)
