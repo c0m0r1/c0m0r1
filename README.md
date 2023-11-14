@@ -31,8 +31,8 @@ M.S Student in EE @ **[KAIST Hacking Lab.](https://kaist-hacking.github.io/)** (
  - Vulnerability Research & Exploitation
 
 ### Education and Experiences 
-- B.S in CS / EE (double major) @ **KAIST** (2018.02. ~ 2023.02. ),
-- Member of **KAIST GoN** (2018.03. ~)
+- B.S in CS / EE (double major) @ **KAIST** (2018.02. ~ 2023.02.)
+- Member of **KAIST GoN** (2018.03. ~ )
 - **KAIST Student CERT** Senior Member (2018.08. ~ 2021.12.)
   - **KAIST Student CERT** Leader (2020.03. ~ 2021.12.)
 - Security Engineer Internship @ **Naver** (2019.07 ~ 2019.09)
