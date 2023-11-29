@@ -54,6 +54,7 @@ M.S Student in EE @ **[KAIST Hacking Lab.](https://kaist-hacking.github.io/)** (
  - Challenge author of **Whitehat Contest**, 2021
  - Challenge author & Organizer of **Cyber Operations Challenge**, 2020
  - Challenge author of **CODEGATE CTF**, 2020
+ - Presenter of **Power Of Community** ([One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability](https://kaist-hacking.github.io/publication/kim-kernel-ctf/)), 2023
 
 #### Scholarship
  - National Science & Technology Scholarship (2020.02 ~ 2022.02)
