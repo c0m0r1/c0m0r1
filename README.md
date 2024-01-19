@@ -64,7 +64,9 @@ M.S Student in EE @ **[KAIST Hacking Lab.](https://kaist-hacking.github.io/)** (
 ### Researches
  - **CVE-2023-3390**: [Linux LPE 1day vulnerability](https://github.com/google/security-research/tree/master/pocs/linux/kernelctf/CVE-2023-3390_lts_cos_mitigation)
    - Rewarded $67,837 from Google kernelCTF program
-  - Several local product bounties
-    - **KVE-2021-0932, KVE-2021-0933, KVE-2021-1054, KVE-2021-1056**...
+- **CVE-2023-40250**: [Buffer Overflow from Hancom HCell](https://nvd.nist.gov/vuln/detail/CVE-2023-40250)
+  - Rewarded ~$1,500 from KISA Bug Bounty program
+- Several local product bounties
+   - **KVE-2021-0932, KVE-2021-0933, KVE-2021-1054, KVE-2021-1056**...
 
 
